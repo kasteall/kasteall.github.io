@@ -1,0 +1,23 @@
+/*шрифт*/
+.div {
+  font-family: 'Poppins', sans-serif;
+}
+/* colors */
+.logo {
+  font-size: 40px;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 900;
+}
+.header-icon {
+  padding-top: 4px;
+}
+.link {
+  color: #242323;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 1%;
+  margin-left: 10px;
+}
